@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 import torch
+import pandas
+import numpy
 import typer
 # IMPORTANT: Adjusted imports to match your folder structure
 from src.data.data import corrupt_mnist
