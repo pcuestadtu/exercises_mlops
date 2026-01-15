@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 import torch
+import pandas
+import numpy
 print("hola Pau")
 
 print("adeu Pau")
